@@ -18,6 +18,7 @@ This is an android application which saves notes made by the user for future vie
 </p>
 
 ### Features:
+
 * Write notes on subject of choice
 * Save note
 * View, Edit, Delete notes
