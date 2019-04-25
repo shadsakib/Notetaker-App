@@ -23,3 +23,4 @@ This is an android application which saves notes made by the user for future vie
 * View, Edit, Delete notes
 * Search notes by name from note collection
 * Organize notes in a sorted manner
+* Date and time of note creation and note edit shown
